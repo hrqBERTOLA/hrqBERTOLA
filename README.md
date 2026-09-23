@@ -1,6 +1,6 @@
 # 😎 Hi, I'm Cesar!
 
-<img align="right" src="./sonic.gif" width="200">
+<img align="right" src="./sonic.gif" width="290">
 
 ### 💻 About Me
 
